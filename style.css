@@ -22,4 +22,14 @@ margin: auto
 
 
 }
+
+
+.imagen {
+    
+    display:flex;
+    justify-content: center;
+
+
+
+}
  
