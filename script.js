@@ -1,14 +1,9 @@
 // console.log("Hello! I am an alert box!!");
 
-$(document).ready(function() {
+$('#submit').on("click", function() {
+	
+	$('#taskList').html("Has hecho click!");
 
-
-
-
-
-
-
-
-
-console.log("");
 })
+
+
