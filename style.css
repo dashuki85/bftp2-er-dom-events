@@ -12,24 +12,11 @@ margin: auto
 }
 
 
-#newTask {
-
-
-}
-
-
-#clearButton {
-
-
-}
-
 
 .imagen {
-    
+
     display:flex;
     justify-content: center;
-
-
 
 }
  
